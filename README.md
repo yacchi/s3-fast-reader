@@ -1,4 +1,5 @@
 # s3-fast-reader
+[![Test](https://github.com/yacchi/s3-fast-reader/actions/workflows/test.yml/badge.svg)](https://github.com/yacchi/s3-fast-reader/actions/workflows/test.yml)
 
 It's a package that provides an io.Reader interface for the s3 manager Downloader in aws-sdk-go-v2.
 
